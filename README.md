@@ -25,6 +25,9 @@
 </div>
 
 ## 🏆 GitHub Trophies
+<div align="center">
+  
 ![](https://github-profile-trophy.vercel.app/?username=Jbastruz&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
+</div>
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
