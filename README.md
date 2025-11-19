@@ -1,6 +1,9 @@
 # 💫 About Me:
+<div align="center">
+  
 🔭 I’m currently working on AI development and MCP server
 
+</div>
 
 ## 🌐 Socials:
 <div align="center">
