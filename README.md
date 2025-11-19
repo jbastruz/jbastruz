@@ -10,7 +10,7 @@
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Jbastruz&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
 ![](https://nirzak-streak-stats.vercel.app/?user=Jbastruz&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Jbastruz&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<p align=center> ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Jbastruz&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact) <p align=center>
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Jbastruz&theme=radical&no-frame=false&no-bg=true&margin-w=4)
